@@ -2,8 +2,8 @@
 
 Improvements made for training [Compositional Pattern Producing Network](https://en.wikipedia.org/wiki/Compositional_pattern-producing_network) as a Generative Model, using Residual Generative Adversarial Networks and Variational Autoencoder techniques to produce high resolution images.
 
-![Morphing1](https://cdn.rawgit.com/hardmaru/cppn-gan-vae-tensorflow/master/examples/example_linear.gif)
-![Morphing2](https://cdn.rawgit.com/hardmaru/cppn-gan-vae-tensorflow/master/examples/example_sinusoid.gif)
+![Morphing1](https://cdn.rawgit.com/hardmaru/resnet-cppn-gan-tensorflow/master/examples/example_linear.gif)
+![Morphing2](https://cdn.rawgit.com/hardmaru/resnet-cppn-gan-tensorflow/master/examples/example_sinusoid.gif)
 
 Run `python train.py` from the command line to train from scratch and experiment with different settings.
 
